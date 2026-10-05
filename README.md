@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/Bruno%20Pixels.gif" width="100%">
+</p>
+
 # About Me:
 3rd-Year CSE Student<br>Java & Spring Boot Developer<br>React Frontend Developer<br>Interested in Backend Development<br>Problem Solving <br>Design Team Member at GDG RBU
 
