@@ -1,5 +1,5 @@
 # About Me:
-3rd-Year CSE Student<br>Java & Spring Boot Developer<br>React Frontend Developer<br>Interested in Backend Development<br>Problem Solving <br>Design Team Member at GDG RBU<br>Interested in building real-world applications
+3rd-Year CSE Student<br>Java & Spring Boot Developer<br>React Frontend Developer<br>Interested in Backend Development<br>Problem Solving <br>Design Team Member at GDG RBU
 
 
 ## Programming Languages
