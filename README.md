@@ -3,7 +3,7 @@
 </p>
 
 # About Me:
-3rd-Year CSE Student<br>Java & Spring Boot Developer<br>React Frontend Developer<br>Interested in Backend Development<br>Problem Solving <br>Design Team Member at GDG RBU
+3rd-Year CSE Student<br>Java & Spring Boot Developer<br>React Frontend Developer<br>Interested in Backend Development<br>Problem Solving<br>Design Team Member at GDG RBU
 
 
 ## Programming Languages
